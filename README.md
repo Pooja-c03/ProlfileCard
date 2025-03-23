@@ -1,1 +1,1 @@
-### Asimple profile card using HTML & CSS
+### A simple profile card using HTML & CSS
